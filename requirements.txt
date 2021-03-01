@@ -1,0 +1,5 @@
+torch==1.5.1
+ogb==1.2.5
+dgl-cu92==0.6.0
+tensorboardX
+tqdm

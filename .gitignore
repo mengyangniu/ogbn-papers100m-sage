@@ -1,0 +1,5 @@
+log/
+__pycache__/
+upload/
+log_2
+models/__pycache__/
